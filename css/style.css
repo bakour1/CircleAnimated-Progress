@@ -8,21 +8,6 @@
   -o-box-sizing: border-box;
 }
 
-:root {
-  --bg-body: #000;
-  --bg-footer: #333333;
-  --bg-input: #4C4C4C;
-  --bg-foot: #2B2B2B;
-  --bg-face: #3C5A99;
-  --bg-twitter: #00A2E8;
-  --bg-tube: #E52E2E;
-  --bg-insta: #815DC7;
-  --bg-wifi: #FFC338;
-  --c-main: #fff;
-  --c-gry: #9e9e9e;
-}
-
-
 /* ===========  Body  ========= */
 
 body {
